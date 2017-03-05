@@ -1,2 +1,2 @@
 # hello-world
-Hello-World repository
+Metis challenge: working with GitHub API
